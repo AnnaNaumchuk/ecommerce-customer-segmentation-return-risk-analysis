@@ -1,0 +1,24 @@
+ Summary
+
+This project is a junior-level data analytics project focused on analyzing e-commerce sales performance, customer behavior, profitability, and return risk.
+
+The analysis combines Python-based data analysis and machine learning with an interactive Power BI dashboard to transform raw e-commerce data into actionable business insights.
+
+The project covers:
+
+- Sales and profitability analysis
+- Customer segmentation using RFM analysis
+- Customer clustering with K-Means
+- Return risk analysis using Random Forest
+- Identification of loss-making orders and profit leakage
+- Interactive business dashboard in Power BI
+
+ Business Objective
+
+The main objective of this project is to understand:
+
+- Which customers generate the most revenue and profit?
+- Which customer segments require different retention strategies?
+- Where does the business experience revenue and profit leakage?
+- What factors are associated with product returns?
+- Which customers or orders may require additional attention?
